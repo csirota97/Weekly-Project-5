@@ -1,0 +1,22 @@
+_________________________
+|        WEEK 5         |
+_________________________
+
+This week was my first experience with python, data scraping, utilizing html for displaying data, and csv manipulation.
+
+To run this project, run BasicBokeh.py.
+
+_________________________________
+|          FaceGame.py          |
+_________________________________
+
+Using OpenCV, this game tracks the user's face, using the default camera, and displays the image back to you. It shows the user a circle on the "center" of his/her face and a randomly located target square.
+
+The goal of the game is to move the center of your face to the target square as many times as possible before the timer runs out.
+
+
+_________________________
+|        NOTICE         |
+_________________________
+
+This game was designed to run on my MacBook Pro Mid-2015 with the stock camera. The game may not run as intended with other cameras or screens with different pixel densities.
